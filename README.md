@@ -5,8 +5,8 @@ S!zzle Python SDK
 
 A skeleton of a Python package with CLI and test suite included.
 
-Customization quick start
--------------------------
+Installation
+------------
 
 To use this SDK as the start of a new project, do the following, preferably in
 a virtual environment. Clone the repo.
@@ -15,6 +15,6 @@ a virtual environment. Clone the repo.
     cd sizzle-python-sdk
 
 Thanks
------
+------
 
 This project was built using [pyskel](https://github.com/mapbox/pyskel).
