@@ -28,6 +28,6 @@ setup(name='sizzle',
       },
       entry_points="""
       [console_scripts]
-      sizzle=sizzle.scripts.cli:cli
+      sizzle=src.scripts.cli:cli
       """
       )
