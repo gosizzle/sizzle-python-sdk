@@ -14,6 +14,14 @@ a virtual environment. Clone the repo.
     git clone https://github.com/gosizzle/sizzle-python-sdk
     cd sizzle-python-sdk
 
+Testing
+-------
+
+To run the tests,
+
+    pip install -e .[test]
+    py.test
+
 Thanks
 ------
 
