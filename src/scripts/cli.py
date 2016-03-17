@@ -1,13 +1,11 @@
-# Skeleton of a CLI
-
 import click
 
-import pyskel
+import sizzle
 
 
-@click.command('pyskel')
+@click.command('sizzle')
 @click.argument('count', type=int, metavar='N')
 def cli(count):
     """Echo a value `N` number of times"""
     for i in range(count):
-        click.echo(pyskel.has_legs)
+        click.echo(sizzle.has_legs)
