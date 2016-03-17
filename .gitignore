@@ -1,1 +1,4 @@
+.cache/*
 sizzle.egg-info/*
+tests/__pycache__/*
+*.pyc
